@@ -1,4 +1,4 @@
 <?php
 
-$a = 12;
+$name = 'mehrab';
 
